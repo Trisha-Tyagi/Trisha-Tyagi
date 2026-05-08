@@ -1,9 +1,9 @@
 # 💫 Hi there 
 I am Trisha   
-🔭 Working on AI and Web Development projects
-🌱 Learning Deep Learning & modern backend technologies
-💡 Interested in building impactful and user-friendly applications
-⚡ Love turning ideas into real projects through code
+🔭 Working on AI and Web Development projects  
+🌱 Learning Deep Learning & modern backend technologies  
+💡 Interested in building impactful and user-friendly applications  
+⚡ Love turning ideas into real projects through code  
 
 
 ## 🌐 Socials:
